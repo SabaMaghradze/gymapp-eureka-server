@@ -1,4 +1,4 @@
-package com.gymapp.gymapp_eureka;
+package com.gymapp.eureka;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

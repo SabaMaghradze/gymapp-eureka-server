@@ -1,4 +1,4 @@
-package com.gymapp.gymapp_eureka;
+package com.gymapp.eureka;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
